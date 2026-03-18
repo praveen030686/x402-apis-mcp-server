@@ -1,0 +1,41 @@
+{
+  "name": "@praveen030686/data-apis-mcp",
+  "version": "1.0.1",
+  "mcpName": "io.github.praveen030686/data-apis",
+  "description": "MCP server for x402-powered Crypto, Finance, and Web Extract APIs. 22 tools for AI agents with USDC micropayments on Base.",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "data-apis-mcp": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "mcp",
+    "x402",
+    "crypto",
+    "finance",
+    "web-scraping",
+    "ai-agents",
+    "usdc",
+    "base",
+    "micropayments",
+    "model-context-protocol"
+  ],
+  "author": "Praveen",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "zod": "^3.24.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "@types/node": "^22.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
