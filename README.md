@@ -2,6 +2,8 @@
 
 MCP server providing 22 AI agent tools for crypto data, stock market data, forex rates, and web scraping — all powered by x402 micropayments on Base.
 
+[![@praveen030686/data-apis-mcp MCP server](https://glama.ai/mcp/servers/praveen030686/x402-apis-mcp-server/badges/card.svg)](https://glama.ai/mcp/servers/praveen030686/x402-apis-mcp-server)
+
 ## Tools Available (22 total)
 
 ### Crypto Data (4 tools)
