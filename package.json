@@ -1,6 +1,6 @@
 {
   "name": "@praveen030686/data-apis-mcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "mcpName": "io.github.praveen030686/data-apis",
   "description": "MCP server for x402-powered Crypto, Finance, and Web Extract APIs. 22 tools for AI agents with USDC micropayments on Base.",
   "type": "module",
